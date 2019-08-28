@@ -1,3 +1,3 @@
 alert("Hi, welcome to my page");
-console.log("Hello World");
-console.log("This code runs at the background");
+alert("This is just a simple Javascript file");
+alert("This were just a sequence of simple js alerts");
